@@ -1,4 +1,5 @@
-from temperature_converter import celsius_to_fahrenheit
+from src.temperature_converter import celsius_to_fahrenheit
+
 
 def test_celsius_to_fahrenheit():
     # Test freezing point of water in Celsius (0°C)
